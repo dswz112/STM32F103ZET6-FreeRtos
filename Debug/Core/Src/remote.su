@@ -1,0 +1,5 @@
+../Core/Src/remote.c:11:6:remote_init	24	static
+../Core/Src/remote.c:26:6:remote_tim4_irq_callback	8	static
+../Core/Src/remote.c:31:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/remote.c:52:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/remote.c:98:9:remote_scan	16	static

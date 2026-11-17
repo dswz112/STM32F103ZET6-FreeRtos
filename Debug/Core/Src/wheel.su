@@ -1,0 +1,8 @@
+../Core/Src/wheel.c:84:6:down	24	static
+../Core/Src/wheel.c:107:6:forward	24	static
+../Core/Src/wheel.c:129:6:down1	8	static
+../Core/Src/wheel.c:152:6:stop	8	static
+../Core/Src/wheel.c:176:6:right	24	static
+../Core/Src/wheel.c:200:6:right_ON1	24	static
+../Core/Src/wheel.c:225:6:left_ON1	24	static
+../Core/Src/wheel.c:248:6:left	24	static
